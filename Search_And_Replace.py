@@ -1,3 +1,5 @@
+# Authored by Tiam Abderezai
+
 # This snippet 1) reads from a text file called 'Source' 2) replaces the word 'CHEESE' with 'CAKE' into a new file called 'Destination'
 # NOTE: you must already have 2 text files named 'Source' and 'Desitnation'
 
